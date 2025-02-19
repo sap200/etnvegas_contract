@@ -28,4 +28,4 @@ This repository contains the **ETNVegas smart contract**, which powers the on-ch
 # 🚀 Deployment & Usage  
 This contract can be deployed and interacted with using **Hardhat** or **Truffle**.  
 
-For deployment steps, refer to the **official documentation** or the provided scripts in this repository.  
+For deployment steps, refer to the **official documentation**

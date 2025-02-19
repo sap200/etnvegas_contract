@@ -17,13 +17,13 @@ This repository contains the **ETNVegas smart contract**, which powers the on-ch
 ## 🔗 Testnet Contract Details
 - **Contract Address:** `0xBE5AA6040eED70d13DC196bBE3159379cF220D8c`
 - **Block Explorer Link:** [View on Electroneum Testnet Block Explorer](https://blockexplorer.thesecurityteam.rocks/address/0xBE5AA6040eED70d13DC196bBE3159379cF220D8c)
-- **Contract Source Code:** [GitHub Repository](https://github.com/sap200/etnvegas_contract)
+- **Android app Source Code:** [GitHub Repository](https://github.com/sap200/etnvegas/tree/dev_roulette)
 
 
 ## 🔗 Mainnet Contract Details
 - **Contract Address:** `0x90d07231FB279f560D297F9D973011C54a42302C`
 - **Block Explorer Link:** [View on Electroneum Block Explorer](https://blockexplorer.electroneum.com/address/0x90d07231FB279f560D297F9D973011C54a42302C)
-- **Contract Source Code:** [GitHub Repository](https://github.com/sap200/etnvegas_contract)
+- **Android app Source Code:** [GitHub Repository](https://github.com/sap200/etnvegas/tree/mainnet)
 
 # 🚀 Deployment & Usage  
 This contract can be deployed and interacted with using **Hardhat** or **Truffle**.  
